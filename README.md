@@ -1,6 +1,6 @@
 # Brain-Cancer-Auto-Segmentation using Deep Neural NETWORK 
 
-<h4> Authors</h4>
+<h4> Primary Authors</h4>
 <ul>
 <li> Elias Hossain <sup>1</sup></li>
 </ul>
